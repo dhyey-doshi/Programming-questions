@@ -1,4 +1,4 @@
-# Programin-questions
+# Programming-questions
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
@@ -11,7 +11,7 @@
 ## 📂 Repository Structure
 
 ```text
-Programin-questions/
+Programming-questions/
 │
 ├── LeetCode/              # Solutions to LeetCode problems
 │   └── README.md          # LeetCode directory index & conventions
