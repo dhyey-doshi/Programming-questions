@@ -1,0 +1,44 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Executables & Binaries
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+
+# Java
+*.class
+*.jar
+*.war
+bin/
+target/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.venv/
+env/
+venv/
+ENV/
+
+# C / C++
+*.dSYM/
+cmake-build-*/
+build/
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
